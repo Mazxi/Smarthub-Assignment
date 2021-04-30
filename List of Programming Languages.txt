@@ -1,0 +1,8 @@
+LIST OF PROGRAMMING LANGUAGES
+1. Objective C
+2. Javascript
+3. Python
+4. Kotlin
+5. C#
+6. Rugby
+7. C
